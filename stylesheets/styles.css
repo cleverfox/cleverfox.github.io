@@ -813,10 +813,10 @@ section #title .credits {
   color: #696969;
   margin-top: -10px;
 }
-section #title .credits.left {
+section .credits.left {
   float: left;
 }
-section #title .credits.right {
+section .credits.right {
   float: right;
 }
 
